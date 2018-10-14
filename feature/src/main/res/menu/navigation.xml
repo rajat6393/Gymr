@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_exercises"
+        android:icon="@drawable/icons8_dumbbell_24dp"
+        android:title="Exercises" />
+
+    <item
+        android:id="@+id/navigation_workouts"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Workouts" />
+
+    <item
+        android:id="@+id/navigation_custom"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Custom" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Profile" />
+
+</menu>
